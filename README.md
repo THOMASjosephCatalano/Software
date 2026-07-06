@@ -1,7 +1,7 @@
 Toke Core integration/staging tree
 =====================================
 
-note: this is a work in progress, download the Toke core zip for complete code.
+note: this is a work in progress
 
 What is Toke?
 ----------------
